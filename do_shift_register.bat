@@ -1,0 +1,1 @@
+vsim -do do_shift_register.do
